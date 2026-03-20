@@ -1,10 +1,10 @@
 ## Oi, meu nome é Renan Alves e esse é meu github, fique à vontade! 🫡
 
-<div>
-  <a href="https://github.com/renangth">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renangth&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renangth&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renangth&show_icons=true&title_color=9D4EDD&text_color=F5F5F5&icon_color=DCDCDC&bg_color=151515&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=renangth&show_icons=true&locale=en&layout=compact&theme=dark" />
+</p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-Java" height="40" width="50"
 src="https://devicon-website.vercel.app/api/java/original-wordmark.svg?color=%23FFFFFF" >
