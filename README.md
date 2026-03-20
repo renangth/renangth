@@ -22,4 +22,4 @@ src="https://devicon-website.vercel.app/api/mysql/original.svg?color=%23FFFFFF">
   <a href="https://www.linkedin.com/in/renanalvesdeveloper/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:renan.alima99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<img src="https://github.com/SEU_USUARIO/renangth/blob/main/dist/github-contribution-grid-snake.svg">
+<img src="https://github.com/renangth/renangth/blob/main/dist/github-contribution-grid-snake.svg">
