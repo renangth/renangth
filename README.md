@@ -6,13 +6,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renangth&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Renan-Java" height="50" width="60"
+  <img align="center" alt="Renan-Java" height="40" width="50"
 src="https://devicon-website.vercel.app/api/java/original-wordmark.svg?color=%23FFFFFF" >
-  <img align="center" alt="Renan-Python" height="50" width="60"
+  <img align="center" alt="Renan-Python" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
-  <img align="center" alt="Renan-C" height="50" width="60"
+  <img align="center" alt="Renan-C" height="40" width="50"
 src="https://devicon-website.vercel.app/api/c/original.svg" >
-  <img align="center" alt="Renan-MySql" height="50" width="60"
+  <img align="center" alt="Renan-MySql" height="40" width="50"
 src="https://devicon-website.vercel.app/api/mysql/original.svg?color=%23FFFFFF">
 
   ##
