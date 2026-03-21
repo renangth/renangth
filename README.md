@@ -1,9 +1,9 @@
 ## Oi, meu nome é Renan Alves e esse é meu github, fique à vontade! 🫡
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaogt01&show_icons=true&title_color=E0B0FF&text_color=FFFFFF&icon_color=E0B0FF&bg_color=30,4B0082,8A2BE2&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renangth&show_icons=true&title_color=E0B0FF&text_color=FFFFFF&icon_color=E0B0FF&bg_color=30,4B0082,8A2BE2&hide_border=true" />
   
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joaogt01&show_icons=true&locale=en&layout=compact&title_color=E0B0FF&text_color=FFFFFF&icon_color=E0B0FF&bg_color=30,4B0082,8A2BE2&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=renangth&show_icons=true&locale=en&layout=compact&title_color=E0B0FF&text_color=FFFFFF&icon_color=E0B0FF&bg_color=30,4B0082,8A2BE2&hide_border=true" />
 </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-Java" height="40" width="50"
