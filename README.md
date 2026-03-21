@@ -1,11 +1,17 @@
 ## Oi, meu nome é Renan Alves e esse é meu github, fique à vontade! 🫡
 
+---
+
+## 📊 Minhas Estátisticas GitHub:
 <p align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renangth&show_icons=true&title_color=BB86FC&text_color=F5F5F5&icon_color=E0B0FF&bg_color=121212,1A1A2E,121212&hide_border=true" />
   
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=renangth&show_icons=true&locale=en&layout=compact&title_color=BB86FC&text_color=F5F5F5&icon_color=E0B0FF&bg_color=121212,1A1A2E,121212&hide_border=true" />
 </p>
 
+---
+
+## 👨🏻‍💻 Linguagens de Programação: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-Java" height="40" width="50"
 src="https://devicon-website.vercel.app/api/java/original-wordmark.svg?color=%23FFFFFF" >
@@ -17,6 +23,10 @@ src="https://devicon-website.vercel.app/api/c/original.svg" >
 src="https://devicon-website.vercel.app/api/mysql/original.svg?color=%23FFFFFF">
 
   ##
+
+  ---
+
+  ## 🧾 Contatos:
 
 <div> 
   <a href="https://wa.me/5581998589503?text=Olá,%20vim%20pelo%20seu%20perfil%20do%20GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
