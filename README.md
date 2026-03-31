@@ -1,5 +1,8 @@
 ## Oi, meu nome é Renan Alves e esse é meu github, fique à vontade! 🫡
 
+
+<img src="https://github.com/renangth/renangth/blob/main/renan%20gif%20contato.gif?raw=true" width="1000">
+
 ---
 
 ## 📊 Minhas Estátisticas GitHub:
