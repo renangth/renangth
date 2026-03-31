@@ -1,6 +1,5 @@
 ## Oi, meu nome é Renan Alves e esse é meu github, fique à vontade! 🫡
 
-
 <img src="https://github.com/renangth/renangth/blob/main/renan%20gif%20contato.gif?raw=true" width="1000">
 
 ---
@@ -15,6 +14,7 @@
 
 ---
 
+
 ## 👨🏻‍💻 Linguagens de Programação: 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -24,7 +24,11 @@
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
 </div>
+</div>
+
 
   ##
 
