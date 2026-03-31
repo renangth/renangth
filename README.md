@@ -13,15 +13,15 @@
 ---
 
 ## 👨🏻‍💻 Linguagens de Programação: 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Renan-Java" height="40" width="50"
-src="https://devicon-website.vercel.app/api/java/original-wordmark.svg?color=%23FFFFFF" >
-  <img align="center" alt="Renan-Python" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
-  <img align="center" alt="Renan-C" height="40" width="50"
-src="https://devicon-website.vercel.app/api/c/original.svg" >
-  <img align="center" alt="Renan-MySql" height="40" width="50"
-src="https://devicon-website.vercel.app/api/mysql/original.svg?color=%23FFFFFF">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
 
   ##
 
