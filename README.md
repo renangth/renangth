@@ -1,4 +1,4 @@
-## Oi, meu nome é Renan Alves e esse é meu github, fique à vontade! 🫡
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&weight=1000&pause=500&color=FFFFFF&width=435&lines=Esse+%C3%A9+meu+GitHub%2C+fique+a+vontade!;Meu+nome+%C3%A9+Renan+Alves;Estudante+de+Sistemas+De+Informa%C3%A7%C3%B5es)](https://git.io/typing-svg)
 
 <img src="https://github.com/renangth/renangth/blob/main/renan%20gif%20contato.gif?raw=true" width="1000">
 
