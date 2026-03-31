@@ -40,4 +40,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renangth/renangth/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/renangth/renangth/output/pacman-contribution-graph.svg">
 </picture>
+<h2 align="left">👀 Visitas:</h2>
 
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:renangth?theme=minecraft&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
