@@ -3,11 +3,12 @@
 ---
 
 ## 📊 Minhas Estátisticas GitHub:
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renangth&show_icons=true&title_color=BB86FC&text_color=F5F5F5&icon_color=E0B0FF&bg_color=121212,1A1A2E,121212&hide_border=true" />
-  
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=renangth&show_icons=true&locale=en&layout=compact&title_color=BB86FC&text_color=F5F5F5&icon_color=E0B0FF&bg_color=121212,1A1A2E,121212&hide_border=true" />
-</p>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=renangth&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renangth&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 ---
 
