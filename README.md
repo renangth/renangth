@@ -5,8 +5,8 @@
 ---
 
 ## 📊 Minhas Estátisticas GitHub:
+[![GitHub Streak](https://streak-stats.demolab.com?user=renangth&theme=radical&hide_border=true&border_radius=5.4&card_width=850&card_height=200)](https://git.io/streak-stats)
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=renangth&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=renangth&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
