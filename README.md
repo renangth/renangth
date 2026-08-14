@@ -17,16 +17,10 @@
 ---
 
 
-## 👨🏻‍💻 Linguagens de Programação: 
+## 👨🏻‍💻 Ferramentas: 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <div>
+<a href="https://github.com/thuongtruong109/icoziv"><img src="https://i.icoziv.workers.dev/icons?i=code,terminal,java,python,c,sql,spring,hibernate,postman,github,git,figma,canva" /></a>
+  <img src="https://skillicons.dev/icons?i=maven" />
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
 </div>
 </div>
